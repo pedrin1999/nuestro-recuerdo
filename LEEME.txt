@@ -1,0 +1,22 @@
+PÁGINA ROMÁNTICA — INSTRUCCIONES
+
+Contenido:
+- index.html
+- assets/foto-de-nosotros.jpg
+
+Para publicarla gratis con GitHub Pages:
+1. Inicia sesión en https://github.com/
+2. Crea un repositorio público llamado: nuestro-recuerdo
+3. Sube index.html y la carpeta assets (con la foto dentro).
+4. En Settings > Pages, selecciona Deploy from a branch.
+5. Elige la rama main y la carpeta /(root), y guarda.
+6. GitHub mostrará la dirección pública de la página.
+
+La dirección tendrá este formato:
+https://TU-USUARIO.github.io/nuestro-recuerdo/
+
+Importante:
+- Cambia TU-USUARIO por tu usuario real de GitHub.
+- La página incluye la fotografía que compartiste.
+- Guarda una copia del ZIP y de la foto original en más de un lugar.
+- Un repositorio público hace que la foto sea visible para cualquiera que tenga el enlace.
